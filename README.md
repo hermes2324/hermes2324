@@ -96,10 +96,6 @@ PDF ─▶ texto digital + OCR ─▶ clasificación por página ─▶ detecci�
 
 <sub>🔐 Los dos proyectos son de uso interno de CFE, por eso su código es privado.</sub>
 <p>
-  <img width="583" height="623" alt="Captura de pantalla 2026-10-12 230327" src="https://github.com/user-attachments/assets/3172d80a-0d4f-4cc7-84d4-977355110999" />
-  <img width="577" height="642" alt="Captura de pantalla 2026-10-12 230112" src="https://github.com/user-attachments/assets/9d928a29-fc45-4aa6-a937-0cdf250931d5" />
-  <img width="1916" height="987" alt="Captura de pantalla 2026-10-12 224957" src="https://github.com/user-attachments/assets/45d8fc15-b46c-4ad5-83b0-ba3bb95fdb55" />
-  <img width="1916" height="1021" alt="Captura de pantalla 2026-10-12 224946" src="https://github.com/user-attachments/assets/d04d2364-bdb6-405d-acc2-318dfd691a28" />
   <img width="1917" height="1021" alt="Captura de pantalla 2026-10-12 224926" src="https://github.com/user-attachments/assets/be6abb32-d9e5-46ae-a5ea-92cf0ae97f0b" />
   <img width="1912" height="1020" alt="Captura de pantalla 2026-10-12 224919" src="https://github.com/user-attachments/assets/63fed277-9d5d-4425-bd93-b0561b3b3266" />
   <img width="1916" height="976" alt="Captura de pantalla 2026-10-12 224902" src="https://github.com/user-attachments/assets/0dfd7bd0-e487-466e-9923-cb31ba8b1f78" />
