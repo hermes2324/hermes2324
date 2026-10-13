@@ -96,7 +96,6 @@ PDF ─▶ texto digital + OCR ─▶ clasificación por página ─▶ detecci�
 <sub>🔐 Los dos proyectos son de uso interno de CFE, por eso su código es privado.</sub>
 <p>
   <img width="1917" height="1021" alt="Captura de pantalla 2026-10-12 224926" src="https://github.com/user-attachments/assets/be6abb32-d9e5-46ae-a5ea-92cf0ae97f0b" />
-  <img width="1912" height="1020" alt="Captura de pantalla 2026-10-12 224919" src="https://github.com/user-attachments/assets/63fed277-9d5d-4425-bd93-b0561b3b3266" />
   <img width="1916" height="976" alt="Captura de pantalla 2026-10-12 224902" src="https://github.com/user-attachments/assets/0dfd7bd0-e487-466e-9923-cb31ba8b1f78" />
   <img width="1917" height="990" alt="Captura de pantalla 2026-10-12 224851" src="https://github.com/user-attachments/assets/f552aae7-bddc-412a-b704-8489b554c3fd" />
 </p>
