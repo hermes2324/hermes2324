@@ -108,7 +108,7 @@ PDF ─▶ texto digital + OCR ─▶ clasificación por página ─▶ detecci�
 
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| 🍗 **Pollo Pollo a Domicilio** <sub>(privado · en equipo con [Aaron](https://github.com/aron-alv))</sub> | Plataforma de pedidos a domicilio con paneles para cliente, repartidor y administrador, mapa y notificaciones push | JavaScript · Firebase · Google Maps |
+| 🍗 **Pollo Pollo a Domicilio** <sub>(privado)</sub> | Plataforma de pedidos a domicilio con paneles para cliente, repartidor y administrador, mapa y notificaciones push | JavaScript · Firebase · Google Maps |
 | 🍽️ [**Restaurante App**](https://github.com/hermes2324/restaurante-app-maui) | App para pedir en mesa o a domicilio, con roles de cliente, mesero y administrador y avisos en tiempo real | C# · .NET MAUI · Supabase · Firebase |
 | 🏟️ [**Estadios de Fútbol**](https://github.com/hermes2324/Estadios-de-futbol) | Estadios en un mapa interactivo, partidos y venta de boletos | C# · .NET MAUI · Supabase · Mapas |
 | 🚗 [**Renta de Autos**](https://github.com/hermes2324/renta-de-autos-maui) | Agencia de renta: autos, clientes, rentas con total automático y reporte por fechas | C# · .NET MAUI · MongoDB Atlas |
