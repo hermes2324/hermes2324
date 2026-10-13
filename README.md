@@ -100,10 +100,30 @@ PDF ─▶ texto digital + OCR ─▶ clasificación por página ─▶ detecci�
 
 ### 🧩 Más proyectos
 
+#### 📱 Apps móviles y web
+
 | Proyecto | Qué es | Tecnologías |
 |---|---|---|
-| 🍽️ [**Restaurante App**](https://github.com/hermes2324/restaurante-app-maui) | App multiplataforma para pedir en mesa o a domicilio, con roles de cliente, mesero y administrador y avisos en tiempo real | C# · .NET MAUI · Supabase · Firebase |
-| 📚 [**Biblioteca La Trinidad**](https://github.com/hermes2324/biblioteca-la-trinidad) | Sistema de escritorio para libros, préstamos, devoluciones, inventario y reportes | C# · Windows Forms · SQL Server |
+| 🍗 **Pollo Pollo a Domicilio** <sub>(privado · en equipo con [Aaron](https://github.com/aron-alv))</sub> | Plataforma de pedidos a domicilio con paneles para cliente, repartidor y administrador, mapa y notificaciones push | JavaScript · Firebase · Google Maps |
+| 🍽️ [**Restaurante App**](https://github.com/hermes2324/restaurante-app-maui) | App para pedir en mesa o a domicilio, con roles de cliente, mesero y administrador y avisos en tiempo real | C# · .NET MAUI · Supabase · Firebase |
+| 🏟️ [**Estadios de Fútbol**](https://github.com/hermes2324/Estadios-de-futbol) | Estadios en un mapa interactivo, partidos y venta de boletos | C# · .NET MAUI · Supabase · Mapas |
+| 🚗 [**Renta de Autos**](https://github.com/hermes2324/renta-de-autos-maui) | Agencia de renta: autos, clientes, rentas con total automático y reporte por fechas | C# · .NET MAUI · MongoDB Atlas |
+
+#### 🖥️ Escritorio
+
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
+| 🗄️ [**SGBD Multiconexiones**](https://github.com/hermes2324/SGBD-MULTICONEXIONES) | Un solo gestor para conectarse a SQL Server, MySQL, PostgreSQL, Oracle y Firebird | C# · Windows Forms · ADO.NET |
+| 🛒 [**Sistema de Ventas**](https://github.com/hermes2324/sistema-de-ventas) | Punto de venta con inventario, proveedores, ventas con IVA y gráficas | C# · Windows Forms · SQL Server |
+| 📚 [**Biblioteca La Trinidad**](https://github.com/hermes2324/biblioteca-la-trinidad) | Libros, préstamos, devoluciones e inventario; la versión 2.0 agrega reportes con gráficas y PDF | C# · Windows Forms · SQL Server |
+| 🐾 [**Veterinaria**](https://github.com/hermes2324/Veterinaria) | Registro de mascotas, citas con costo y reportes | C# · Windows Forms · SQL Server |
+| 🧑‍💼 [**Gestión de Perfiles**](https://github.com/hermes2324/gestion-de-perfiles) | Solicitantes de empleo con foto y CV, con controles redondeados propios | C# · Windows Forms · MongoDB |
+| 🃏 [**Blackjack 21**](https://github.com/hermes2324/blackjack-21) | El clásico 21 contra la computadora | C# · Windows Forms |
+
+#### ⚙️ Automatización
+
+| Proyecto | Qué es | Tecnologías |
+|---|---|---|
 | 📄 **Oficios de Retardos** <sub>(privado · CFE)</sub> | Lee el reporte de SIRH desde Outlook y genera automáticamente un oficio Word por trabajador | Python · Outlook · python-docx |
 
 ---
