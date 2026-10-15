@@ -102,6 +102,44 @@ PDF ─▶ texto digital + OCR ─▶ clasificación por página ─▶ detecci�
 
 <br />
 
+### 🏋️ GymManager · Recepción para gimnasios
+
+> Sistema de escritorio para la **recepción de un gimnasio sin torniquete**: registra socios, vende y renueva membresías, cobra con **ticket térmico de 80 mm** y muestra en una **TV** a los socios cuya membresía está por vencer.
+
+<p align="center">
+  <img src="assets/gymmanager/panel.png" width="48%" alt="GymManager: panel principal" />
+  &nbsp;
+  <img src="assets/gymmanager/cobro-rapido.png" width="48%" alt="GymManager: cobro rápido" />
+</p>
+<p align="center">
+  <img src="assets/gymmanager/pantalla-tv.png" width="48%" alt="GymManager: pantalla de TV con vencimientos" />
+  &nbsp;
+  <img src="assets/gymmanager/socios.png" width="48%" alt="GymManager: socios con semáforo de vencimientos" />
+</p>
+<p align="center">
+  <img src="assets/gymmanager/ficha-socio.png" width="48%" alt="GymManager: ficha del socio con historial" />
+  &nbsp;
+  <img src="assets/gymmanager/ticket.png" width="40%" alt="GymManager: recibo de pago" />
+</p>
+
+- ⚡ **Cobro rápido en 3 pasos** (socio → plan → pago): membresía, pago y recibo en **una sola transacción SQL**
+- 🚦 **Semáforo de vencimientos** calculado por fecha (verde, amarillo, naranja y rojo) en todas las pantallas
+- 📺 **Pantalla de TV** a pantalla completa en un segundo monitor, que se actualiza sola y **sigue encendida en los cambios de turno**
+- 🧾 **Ticket térmico de 80 mm** con folio único, vista previa y reimpresión
+- 🔒 **Historial inmutable** (los pagos no se editan ni se borran), contraseñas PBKDF2 y **75 pruebas automatizadas**
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+  <img src="https://img.shields.io/badge/Windows%20Forms-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Windows Forms" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/xUnit-5E1F87?style=flat-square&logo=dotnet&logoColor=white" alt="xUnit" />
+</p>
+
+<sub>🔐 Proyecto comercial: el código es privado. Las capturas usan datos de demostración.</sub>
+
+<br />
+
 ### 🧩 Más proyectos
 
 #### 📱 Apps móviles y web
