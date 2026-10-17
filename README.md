@@ -140,6 +140,49 @@ PDF ─▶ texto digital + OCR ─▶ clasificación por página ─▶ detecci�
 
 <br />
 
+### ☕ CafeManager · Punto de venta para cafeterías
+
+> Sistema completo para una cafetería: **caja táctil** para Windows, **pedidos desde el celular escaneando un QR** en la mesa, **pantalla de cocina/barra** y una sola API. Cada cambio llega **en tiempo real** a la caja, a la cocina y al celular del cliente.
+
+<p align="center">
+  <img src="assets/cafemanager/caja-venta.png" width="48%" alt="CafeManager: caja, pantalla de venta" />
+  &nbsp;
+  <img src="assets/cafemanager/caja-cobro.png" width="48%" alt="CafeManager: cobro con teclado táctil" />
+</p>
+<p align="center">
+  <img src="assets/cafemanager/movil-menu.png" width="23%" alt="CafeManager: menú en el celular" />
+  &nbsp;
+  <img src="assets/cafemanager/movil-personalizar.png" width="23%" alt="CafeManager: personalizar bebida en el celular" />
+  &nbsp;
+  <img src="assets/cafemanager/movil-pedido-listo.png" width="23%" alt="CafeManager: el celular avisa que el pedido está listo" />
+</p>
+<p align="center">
+  <img src="assets/cafemanager/cocina-tablero.png" width="48%" alt="CafeManager: pantalla de cocina con columnas por estado" />
+  &nbsp;
+  <img src="assets/cafemanager/caja-reportes.png" width="48%" alt="CafeManager: reportes de ventas" />
+</p>
+
+- 📱 El cliente **escanea el QR, pide y paga al recoger**; su celular le avisa **"¡Tu pedido está listo!"** sin recargar
+- 👩‍🍳 **Pantalla de cocina** con columnas por estado y **modo rápido** de un toque cuando una sola persona atiende caja y barra
+- 💵 Caja con **modificadores** (tamaño, leche, shots), descuentos autorizados, **arqueo de turno**, inventario por receta y **ticket térmico**
+- ☁️ Celular y cocina publicados en **Cloudflare Pages**; la API sale a internet por **Cloudflare Tunnel** sin abrir puertos
+- 🔒 **Licencias firmadas (ECDSA)**, auditoría de seguridad, JWT con tokens rotativos y **88 pruebas automatizadas**
+
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />
+  <img src="https://img.shields.io/badge/WPF-0078D4?style=flat-square&logo=windows&logoColor=white" alt="WPF" />
+  <img src="https://img.shields.io/badge/Blazor%20WASM-512BD4?style=flat-square&logo=blazor&logoColor=white" alt="Blazor WebAssembly" />
+  <img src="https://img.shields.io/badge/SignalR-0B6B45?style=flat-square&logo=dotnet&logoColor=white" alt="SignalR" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/xUnit-5E1F87?style=flat-square&logo=dotnet&logoColor=white" alt="xUnit" />
+</p>
+
+<sub>🔐 Proyecto comercial: el código es privado. Las capturas usan datos de demostración.</sub>
+
+<br />
+
 ### 🧩 Más proyectos
 
 #### 📱 Apps móviles y web
